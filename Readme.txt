@@ -1,13 +1,11 @@
+# Getting Started with Create React App
 
-# Mygreathouse By Imane TAHRI
+[Demo project ] http://mygreathouse.imanetahri.ca.
 
-> Search for Real Estate, Property & Homes - realestate  using html, Css,javascript.bootstrap
+ Search for Real Estate, Property & Homes - real estate using html, Css,javascript.bootstrap 
 
-## Live Prview Project
-[Demo Project](http://mygreathouse.imanetahri.ca/)
+### `Features`
 
-
-## Features
 Home page
 property for sale
 property details
@@ -22,8 +20,3 @@ single blog
 about
 
 
-
-
-
-
-```
